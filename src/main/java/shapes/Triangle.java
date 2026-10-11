@@ -46,3 +46,4 @@ public class Triangle extends Shape {
         this.sideC = sideC;
     }
 }
+//necessary changes were made in this program

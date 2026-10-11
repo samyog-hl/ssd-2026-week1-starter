@@ -52,3 +52,4 @@ public class Square extends Shape {
         this.size = size;
     }
 }
+//necessary changes were made in this program
