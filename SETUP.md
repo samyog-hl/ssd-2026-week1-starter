@@ -8,7 +8,7 @@ Please fill out the details below, commit this file, and push it to your private
 - **Full Name:** [samyog hang lingden]
 - **Leeds Beckett Student ID:** [c7683904]
 - **TBC College Email:** [lsamyog24@tbc.edu.np]
-- **GitHub Username:** [samyog-hang-lingden]
+- **GitHub Username:** [samyog-hl]
 
 ---
 
