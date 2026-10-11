@@ -5,10 +5,10 @@ Please fill out the details below, commit this file, and push it to your private
 ---
 
 ## 👤 Student Information
-- **Full Name:** [Your full name here]
-- **Leeds Beckett Student ID:** [e.g. 77XXXXXX]
-- **TBC College Email:** [your.email@thebritishcollege.edu.np]
-- **GitHub Username:** [Your GitHub handle]
+- **Full Name:** [samyog hang lingden]
+- **Leeds Beckett Student ID:** [c7683904]
+- **TBC College Email:** [lsamyog24@tbc.edu.np]
+- **GitHub Username:** [samyog-hang-lingden]
 
 ---
 
@@ -17,13 +17,17 @@ Run the following commands in your terminal and paste the exact output:
 
 ### 1. Java Version (`java -version`)
 ```text
-[Paste output here, e.g. openjdk version "21.0.x"]
+[$ java -version
+openjdk version "21.0.10" 2026-01-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.10+7 (build 21.0.10+7-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.10+7 (build 21.0.10+7-LTS, mixed mode, sharing)
+]
 ```
 
 ### 2. IDE Used
 - [ ] IntelliJ IDEA Ultimate (Recommended)
 - [ ] IntelliJ IDEA Community
-- [ ] Eclipse IDE
+- [$] Eclipse IDE
 - [ ] VS Code with Java Extension Pack
 
 ---
